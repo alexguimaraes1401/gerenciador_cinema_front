@@ -1,0 +1,6 @@
+{
+  "name": "filmes",
+  "version": "0.0.0",
+  "main": "listaFilmes.js",
+  "private": true
+}

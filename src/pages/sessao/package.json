@@ -1,0 +1,6 @@
+{
+  "name": "sessoes",
+  "version": "0.0.0",
+  "main": "listaSessoes.js",
+  "private": true
+}
